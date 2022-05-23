@@ -1,0 +1,30 @@
+table,tr,td{
+    
+    border:1px solid;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(73, 77, 82);
+    
+}
+tr{
+    
+    height: 150px;
+
+}
+td{
+    text-align:center;
+    
+    width: 130px;
+
+}
+h4,p{
+
+    text-align: center;
+}
+body{
+    
+    height: 500vh;
+    background-image: url('./smily.jpg');
+    background-size: 300vh;
+    text-align: center;
+}
